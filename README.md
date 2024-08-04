@@ -1,8 +1,8 @@
-# Go Multiplayer Game
+# Go  Game Production
 
 ## Overview
 
-This project is a multiplayer implementation of the traditional board game Go (wéiqí) built with Flutter. The game includes single-player mode with various difficulty levels, a tutorial, and multiplayer mode utilizing Firebase Firestore for real-time data synchronization.
+This project is a implementation of the traditional board game Go (wéiqí) built with Flutter. The game includes single-player mode with various difficulty levels, a tutorial, and multiplayer mode utilizing Firebase Firestore for real-time data synchronization.
 
 ## Features
 
